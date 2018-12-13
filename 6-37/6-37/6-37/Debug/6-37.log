@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\user\desktop\c_code\6-37\source\main.c(6): warning C4101: 'b': 未參考的區域變數
+c:\users\user\desktop\c_code\6-37\source\main.c(6): warning C4101: 'c': 未參考的區域變數
+  6-37.vcxproj -> C:\Users\USER\Desktop\c_code\6-37\6-37\Debug\6-37.exe
